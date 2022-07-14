@@ -197,3 +197,17 @@
         text-align: center;
         padding: 20px 0 0 0;
     }
+    
+    .icon i {
+        font-size: 60px;
+        color: #ffa8a8;
+    }
+    
+    .icon {
+        display: flex;
+        gap: 2rem;
+        margin: 2rem;
+        padding: 2rem;
+        border-radius: 12px;
+        background-color: #fff5f5;
+    }
